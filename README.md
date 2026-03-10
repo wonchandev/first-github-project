@@ -1,6 +1,3 @@
-# Hello GitHub
-안녕하세요. 저는 백엔드를 공부하는 학생입니다.
-## 관심 분야
-Infra, Backend
-## 목표
-Git, Github 정복하기!!
+## 취미
+음악
+운동
